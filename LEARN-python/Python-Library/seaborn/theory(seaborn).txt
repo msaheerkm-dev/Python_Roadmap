@@ -1,0 +1,27 @@
+matplotlin , seaborn 
+
+Univariate → One variable → Distribution/summary.
+Bivariate → Two variables → Relationship/pattern.
+
+
+UNIVARIATE
+
+1.distributive
+Histogram – Frequency of values in bins.
+KDE (Kernel Density Estimation) – Smooth curve of probability density.
+Violin plot – Mix of KDE + Boxplot to show shape of distribution.
+
+2.summary
+Boxplot – Shows median, quartiles, range, and outliers.
+Barplot (with summary statistic) – Average values across categories.
+
+BIVARIATE
+
+1.Relationship
+Scatter plot → Best for two continuous variables.
+Line plot → Shows trend/relationship across time or sequence.
+Heatmap → Correlation matrix (strength of linear relationships).
+
+2.pattern
+Pairplot (Seaborn) → Helps visualize patterns across multiple variable pairs.
+
