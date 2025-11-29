@@ -1,1 +1,0 @@
-print(sorted(['hi','h'],key=lambda x:len(x)))
